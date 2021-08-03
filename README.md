@@ -23,7 +23,7 @@ E-mail : kxv1031@gamil.com<br>
 技能水平<br>
 熟悉 Word, Excel, PowerPoint 等 Office 软件<br>
 精通 Photoshop 等图像平面处理软件的使用<br>
-Python，Unity<br>
+Python，Unity3D<br>
 
 您好，中文通过游戏学了。<br>我喜欢旅行，对中国旅游景点很感兴趣。请多多关照
 
