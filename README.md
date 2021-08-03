@@ -1,6 +1,6 @@
 ###  👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
 
 姓名 : 鄭人碩
 名前：チョン・インソク
