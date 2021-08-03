@@ -4,6 +4,9 @@
 
 
 
+language : 한국어(Korean), 日本語(Japanese / JLPT N1), 中文(HSK 3級)
+
+<hr>
 [日文]<br>
 名前：チョン・インソク
 
