@@ -1,4 +1,4 @@
-###　
+#　
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,12 +12,15 @@ language : 한국어(Korean), 日本語(Japanese / JLPT N1), 中文(HSK 3級)
 学歴 : 又松大学【ゲームマルチメディア 専攻】、関西大学交換留学
 E-mail : kxv1031@gamil.com<br>
 
+日本アニメから様々な文化を愛しています。よろしくお願いいたします。
+
 <hr>
 [中文]<br>
 姓名 : 鄭人碩<br>
 教育背景 : 又松大学（毕业）<br>
 电子邮箱 : kxv1031@gmail.com<br>
 
+您好，中文通过游戏学了。<br>我喜欢旅行，对中国旅游景点很感兴趣。请多多关照
 
 
 <!--
