@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 디스이즈 게임에 제가 제작한 비쥬얼노벨 게임이 보도 된 적도 있습니다. <
 https://www.thisisgame.com/webzine/news/nboard/4/?n=74054
