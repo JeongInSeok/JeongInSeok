@@ -2,10 +2,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-디스이즈 게임에 제가 제작한 비쥬얼노벨 게임이 보도 된 적도 있습니다. <
+<br>
+안녕하세요. 게임업계에 취업을 희망하고 있는 꿈나무 정인석입니다. <br>
+디스이즈 게임에 제가 제작한 비쥬얼노벨 게임이 보도 된 적도 있습니다. <br>
 https://www.thisisgame.com/webzine/news/nboard/4/?n=74054
 
 language : 한국어(Korean), 日本語(Japanese / JLPT N1), 中文(HSK 3級)
