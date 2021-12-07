@@ -10,7 +10,8 @@
 
 https://www.thisisgame.com/webzine/news/nboard/4/?n=74054
 
-language : 한국어(Korean), 日本語(Japanese / JLPT N1), 中文(HSK 3級)
+language : 한국어(Korean), 日本語(Japanese / JLPT N1), 中文(HSK 3級)<br><br>
+README.md 파일은 일본사람도 읽을 수 있도록 일본어도 같이 작성해두었습니다.
 
 <hr>
 [日文]<br>
@@ -19,7 +20,8 @@ language : 한국어(Korean), 日本語(Japanese / JLPT N1), 中文(HSK 3級)
 E-mail : kxv1031@gamil.com<br>
 スキル・経験　：　Python、SQL知識、Unity３Dゲームエンジン、RenPy(ビジュアルノベル)
 
-私が作ったビジュアルノベルゲームは韓国ニュース話題になったこともあり面白いゲームを作る自信があります。
+私が作ったビジュアルノベルゲームは韓国ニュース話題になったこともあり面白いゲームを作る自信があります。<br>
+README.mdファイルは日本の方も読めるようにしました。<br>
 
 日本アニメとか祭り様々な文化に興味津々です。よろしくお願いいたします。
 
