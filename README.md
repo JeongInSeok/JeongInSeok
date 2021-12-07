@@ -10,8 +10,14 @@
 
 https://www.thisisgame.com/webzine/news/nboard/4/?n=74054
 
+<br>
+학력 : 우송대학교 게임멀티미디어 전공, 일본 간사이대학 교환학생<br>
+E-mail : kxv1031@naver.com <br>
+개발언어 경험 : 파이썬, 자바, 유니티엔진<br>
 language : 한국어(Korean), 日本語(Japanese / JLPT N1), 中文(HSK 3級)<br><br>
-README.md 파일은 일본사람도 읽을 수 있도록 일본어도 같이 작성해두었습니다.
+git에 등록된 프로젝트는 비쥬얼노벨게임, Django 영화커뮤니티 페이지, JSP활용한 개인홈페이지, Java를 이용한 간단한 게임 등이 있습니다.<br>
+README.md 파일은 일본사람도 읽을 수 있도록 일본어도 같이 작성해두었습니다.<br>
+
 
 <hr>
 [日文]<br>
