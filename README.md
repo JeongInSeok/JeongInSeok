@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-게임업계를 지망하는 정인석입니다 <br>
+서브컬쳐 게임을 좋아합니다. <br>
 디스이즈 게임에 제가 제작한 비쥬얼노벨 게임 "배드엔딩 탈출 넘버원"이 보도 된 적도 있습니다. <br><br>
 
 
@@ -13,7 +13,7 @@ https://www.thisisgame.com/webzine/news/nboard/4/?n=74054
 
 <br>
 학력 : 우송대학교 게임멀티미디어 전공, 일본 간사이대학 교환학생<br>
-경력사항 : 넥슨게임즈 <br>
+경력사항 : 넥슨게임즈, 넥슨코리아 <br>
 E-mail : kxv1031@naver.com <br>
 개발언어 경험 : 파이썬, 자바, 유니티엔진<br>
 language : 한국어(Korean), 日本語(Japanese / JLPT N1), 中文(HSK 3級)<br><br>
