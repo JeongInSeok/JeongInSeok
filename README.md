@@ -5,10 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
 
 > ## 📑 경력사항
->> 💼 넥슨게임즈 (2022.03~2022.12)
->>> 게임사업 PM
->> 💼 넥슨코리아
->>> 게임사업 PM
+>> 💼 넥슨게임즈 게임사업 PM (2022.03 ~ 2022.12)
+>> 💼 넥슨코리아 게임사업 PM (2022.12 ~ 2024.12)
 
 <br>
 > ## 📚 학력
