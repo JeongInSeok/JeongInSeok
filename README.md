@@ -41,27 +41,6 @@
 >> - 코딩테스트 공부용 공간 <br> <br>
 
 
-<hr>
-[日文]<br>
-氏 名：チョン・インソク<br>
-学歴 : 又松大学【ゲームマルチメディア 専攻】、関西大学交換留学<br>
-E-mail : kxv1031@gamil.com<br>
-スキル・経験　：　Python、SQL知識、Unity３Dゲームエンジン、RenPy(ビジュアルノベル) <br>
-私が作ったビジュアルノベルゲームは韓国ニュース話題になったこともあり面白いゲームを作る自信があります。<br>
-
-<hr>
-[中文]<br>
-姓名 : 鄭人碩<br>
-学历 : 又松大学（毕业）<br>
-电子邮箱 : kxv1031@gmail.com<br>
-技能水平<br>
-熟悉 Word, Excel, PowerPoint 等 Office 软件<br>
-精通 Photoshop 等图像平面处理软件的使用<br>
-Python，Unity3D<br>
-
-您好，中文通过游戏学了。<br>我喜欢旅行，对中国旅游景点很感兴趣。请多多关照
-
-
 <!--
 **JeongInSeok/JeongInSeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
