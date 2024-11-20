@@ -1,4 +1,4 @@
-# 안녕하세요. 정인석의 Git 공간을 방문해주셔서 감사합니다! 👋
+# 정인석의 Git 공간을 방문해주셔서 감사합니다! 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,9 +27,12 @@
 <br>
 
 
-> ## 🙋‍♂️ 특이사항
+> ## 🙋‍♂️ 특이사항 및 수상
 >> 디스이즈 게임 및 녹색경제 신문에 제가 개발한 비쥬얼노벨 게임 "배드엔딩 탈출 넘버원"이 보도되고 각 종 인터넷 커뮤니티에서 화제가 된 적이 있습니다. <br>
->> 해당 기사 뉴스 링크 : https://www.thisisgame.com/webzine/news/nboard/4/?n=74054
+>> 해당 기사 뉴스 링크 : https://www.thisisgame.com/webzine/news/nboard/4/?n=74054 <br>
+>> 넥슨 청소년 프로그래밍 대회 2022 사내 NYPC 아이디어 공모전 입상 및 문제 출제 <br>
+>> 넥슨 사회공헌팀 주최 NYPC 2022 사내 아이디어 대회 NYPC상 (신세계상품권 10만원) 수상 <br>
+>> 해당 문제 링크 : https://nypc.github.io/2022/round1_1 <br>
 <br>
 
 > ## 🔍 참고사항
