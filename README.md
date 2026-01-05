@@ -1,8 +1,8 @@
 # 정인석의 Git 공간을 방문해주셔서 감사합니다! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JeongInSeok)](https://github.com/anuraghazra/github-readme-stats)
 
 > ## 📑 경력사항
 >> 💼 넥슨게임즈 게임사업 PM 베일드엑스퍼트 (2022.03 ~ 2022.12) <br>
